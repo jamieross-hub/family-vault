@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="docs/screenshots/dashboard.png" alt="Family Vault Dashboard" width="800">
-</p>
+</p> 
 
 ## Overview
 
